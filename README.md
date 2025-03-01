@@ -38,6 +38,7 @@ This app allows users to browse food items, add them to their cart, place orders
    cd food-ordering-app
 
 2.**Install dependencies**
+```sh
    cd frontend
    npm install
    cd ../backend
@@ -50,17 +51,17 @@ This app allows users to browse food items, add them to their cart, place orders
 
  ## ▶ Run the Application 
  1.**Run Backend**
-  ..sh
+  ```sh
    cd backend
    npm run dev
    
  2.**Run Frontend**
-   ..sh
+   ```sh
     cd frontend
     npm start
 
  3.**Open in Browser**
- ..sh
+ ```sh
     http://localhost:3000
 
 
