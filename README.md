@@ -16,5 +16,27 @@ This app allows users to browse food items, add them to their cart, place orders
 ---
 
 
+## 🚀 Features
+- **User Authentication** (Register/Login) with JWT  
+- **Food Browsing & Search**  
+- **Cart Management** with Local Storage  
+- **Order Placement & Payment** (PayPal Integration)  
+- **Order Tracking** with Real-Time Updates  
+- **Profile & Order History Management**  
+
+## 🛠 Tech Stack
+- **Frontend**: React, React Router, Axios, CSS Modules  
+- **Backend**: Node.js, Express, MongoDB, Mongoose  
+- **Authentication**: JSON Web Token (JWT)  
+- **Payment Integration**: PayPal  
+- **Deployment**: (e.g., Vercel, Heroku, or your choice)  
+
+## 🔧 Installation
+1. **Clone the Repository**  
+   ```sh
+   git clone https://github.com/yourusername/food-ordering-app.git
+   cd food-ordering-app
+
+
 
 
