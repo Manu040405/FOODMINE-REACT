@@ -37,14 +37,17 @@ This app allows users to browse food items, add them to their cart, place orders
    git clone https://github.com/Manu040405/foodminereact.git
    cd food-ordering-app
 
-2.**Install dependencies**
+2.**nstall Dependencies**
 ```sh
-   cd frontend
-   npm install
-   cd ../backend
-   npm install
+Copy
+cd frontend
+npm install
+cd ../backend
+npm install
 
-## 🌍 Environment Variables
+  -----
+
+** 🌍 Environment Variables**
 ```sh
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
