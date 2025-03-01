@@ -43,21 +43,24 @@ This app allows users to browse food items, add them to their cart, place orders
    cd ../backend
    npm install
    
-##🌍 Environment Variables
+## 🌍 Environment Variables
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_secret_key
     PAYPAL_CLIENT_ID=your_paypal_client_id
 
  ## ▶ Run the Application 
  1.**Run Backend**
+  ..sh
    cd backend
    npm run dev
    
  2.**Run Frontend**
+   ..sh
     cd frontend
     npm start
 
  3.**Open in Browser**
+ ..sh
     http://localhost:3000
 
 
