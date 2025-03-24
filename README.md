@@ -293,3 +293,7 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
   <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/login.png" alt="Login Page" width="600"/>
   <p align="center"><strong>Login Page</strong></p>
 </p>
+<p align="center">
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/register-page.png" alt="Register Page" width="600"/>
+  <p align="center"><strong>Register Page</strong></p>
+</p>
