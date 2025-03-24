@@ -270,11 +270,6 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 </p>
 
 <p align="center">
-  <img src=".https://github.com/Manu040405/FOODMINE-REACT/blob/main/order.png" alt="Checkout Process" width="600"/>
-  <p align="center"><strong>Checkout Process</strong></p>
-</p>
-
-<p align="center">
   <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/paypal.png" alt="Payment Page" width="600"/>
   <p align="center"><strong>Payment Page</strong></p>
 </p>
