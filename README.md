@@ -255,7 +255,7 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/food-details.png" alt="Food Details" width="600"/>
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/food-detail.png" alt="Food Details" width="600"/>
   <p align="center"><strong>Food Details Page</strong></p>
 </p>
 
