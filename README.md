@@ -249,20 +249,41 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](./screenshots/home-page.png)
+<p align="center">
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/home-page.png" alt="Home Page" width="600"/>
+</p>
 
-### Food Details
-![Food Details](./screenshots/food-details.png)
+<p align="center">
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/cart-page.png" alt="Shopping Cart" width="600"/>
+</p>
 
-### Shopping Cart
-![Shopping Cart](./screenshots/shopping-cart.png)
+<p align="center">
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/order-page.png" alt="Checkout Process" width="600"/>
+</p>
 
-### Checkout Process
-![Checkout](./screenshots/checkout.png)
+<p align="center">
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/payment-page.png" alt="Payment Page" width="600"/>
+</p>
 
-### Order Tracking
-![Order Tracking](./screenshots/order-tracking.png)
+<p align="center">
+  <img src="./screenshots/order-tracking.png" alt="Order Tracking" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/profile-page.png" alt="User Profile" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/order.png" alt="Order History" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/login-page.png" alt="Login Page" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/register-page.png" alt="Register Page" width="600"/>
+</p>
 
 ## 📄 License
 *[Add your license information here]*
