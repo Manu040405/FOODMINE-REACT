@@ -248,7 +248,21 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 </details>
 
 ## 📸 Screenshots
-*[Add your application screenshots here]*
+
+### Home Page
+![Home Page](./screenshots/home-page.png)
+
+### Food Details
+![Food Details](./screenshots/food-details.png)
+
+### Shopping Cart
+![Shopping Cart](./screenshots/shopping-cart.png)
+
+### Checkout Process
+![Checkout](./screenshots/checkout.png)
+
+### Order Tracking
+![Order Tracking](./screenshots/order-tracking.png)
 
 ## 📄 License
 *[Add your license information here]*
