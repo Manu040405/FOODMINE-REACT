@@ -250,40 +250,58 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/home-page.png" alt="Home Page" width="600"/>
+  <img src="./screenshots/home-page.png" alt="Home Page" width="600"/>
+  <p align="center"><strong>Home Page</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/cart-page.png" alt="Shopping Cart" width="600"/>
+  <img src="./screenshots/food-details.png" alt="Food Details" width="600"/>
+  <p align="center"><strong>Food Details Page</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/order-page.png" alt="Checkout Process" width="600"/>
+  <img src="./screenshots/search-results.png" alt="Search Results" width="600"/>
+  <p align="center"><strong>Search Results</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/payment-page.png" alt="Payment Page" width="600"/>
+  <img src="./screenshots/shopping-cart.png" alt="Shopping Cart" width="600"/>
+  <p align="center"><strong>Shopping Cart</strong></p>
+</p>
+
+<p align="center">
+  <img src="./screenshots/checkout.png" alt="Checkout Process" width="600"/>
+  <p align="center"><strong>Checkout Process</strong></p>
+</p>
+
+<p align="center">
+  <img src="./screenshots/payment.png" alt="Payment Page" width="600"/>
+  <p align="center"><strong>Payment Page</strong></p>
 </p>
 
 <p align="center">
   <img src="./screenshots/order-tracking.png" alt="Order Tracking" width="600"/>
+  <p align="center"><strong>Order Tracking</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/profile-page.png" alt="User Profile" width="600"/>
+  <img src="./screenshots/user-profile.png" alt="User Profile" width="600"/>
+  <p align="center"><strong>User Profile</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/order.png" alt="Order History" width="600"/>
+  <img src="./screenshots/order-history.png" alt="Order History" width="600"/>
+  <p align="center"><strong>Order History</strong></p>
 </p>
 
 <p align="center">
   <img src="./screenshots/login-page.png" alt="Login Page" width="600"/>
+  <p align="center"><strong>Login Page</strong></p>
 </p>
 
 <p align="center">
   <img src="./screenshots/register-page.png" alt="Register Page" width="600"/>
+  <p align="center"><strong>Register Page</strong></p>
 </p>
-
 ## 📄 License
 *[Add your license information here]*
