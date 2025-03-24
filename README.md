@@ -285,19 +285,16 @@ PAYPAL_CLIENT_ID=your_paypal_client_id
 </p>
 
 <p align="center">
-  <img src="./screenshots/user-profile.png" alt="User Profile" width="600"/>
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/login-page.png" alt="User Profile" width="600"/>
   <p align="center"><strong>User Profile</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/cart-page.png" alt="Order History" width="600"/>
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/order.png" alt="Order History" width="600"/>
   <p align="center"><strong>Order History</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/login-page.png" alt="Login Page" width="600"/>
+  <img src="https://github.com/Manu040405/FOODMINE-REACT/blob/main/login.png" alt="Login Page" width="600"/>
   <p align="center"><strong>Login Page</strong></p>
 </p>
-
-## 📄 License
-*[Add your license information here]*
